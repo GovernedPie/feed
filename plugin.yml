@@ -1,0 +1,10 @@
+name: Feed
+author: GovernedPie
+version: 1.0.0
+api: 3.0.0
+main: feed\main
+description: simple feed plugin!
+
+commands:
+  feed:
+    description: §4/feed§7 - Abilty to heal your hearts.
